@@ -1,0 +1,13 @@
+token-admin = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6MSwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJpYXQiOjE2OTI4MDMyMTB9.oZ9c1R10kJE4o4cZ43ekBdS7C5vKME6_ZJsqRaZtX5s
+
+teacher_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6MiwiZW1haWwiOiJ0ZWFjaGVyM0BnbWFpbC5jb20iLCJpYXQiOjE2OTI4MDI5Nzh9.mLpmongAVF3YUJ2GOYazO6FjKDnF3LT92swJRNQvbMs
+
+student_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6MywiZW1haWwiOiJ1c2VyQGdtYWlsLmNvbSIsImlhdCI6MTY5MjgwMzg0N30.kxQEJV2Aqr_IenocW4qoO9XBBZjx33-B3UWoSMrkywg
+
+accountant_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6NCwiZW1haWwiOiJhY2NvdW50YW50QGdtYWlsLmNvbSIsImlhdCI6MTY5MjgwNTc5Nn0.og75HDz0fIDBtjEhVgY-hI59_pfMgwdmTEW_K27ZXyk
+
+positions list:
+    1:admin
+    2:teacher
+    3:student
+    4:accountant    *positions shu tarzda berlmasa beckend ishalmaydi va barcha positions lar kichik harflarda beriladi
